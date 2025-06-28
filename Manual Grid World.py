@@ -1,6 +1,5 @@
 from random import choice, randint
 
-four_directional_vector = [(1, 0), (0, -1), (-1, 0), (0, 1)]
 start_cor = (0, 0)
 grid_size = 4
 pits = 2
