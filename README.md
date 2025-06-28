@@ -8,6 +8,8 @@ implementations. Ideal for learners and practitioners aiming to progress step by
 ---
 ## 1. Getting Started with Reinforcement Learning
 ### 1.1 What is RL?
+✦ [What is Reinforcement Learning?](What%20is%20Reinforcement%20Learning.md)<br />
+
 ### 1.2 Agent, Environment, and Reward
 ### 1.3 State, Action, and Policy
 
