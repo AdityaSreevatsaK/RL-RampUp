@@ -11,6 +11,8 @@ implementations. Ideal for learners and practitioners aiming to progress step by
 ✦ [What is Reinforcement Learning?](What%20is%20Reinforcement%20Learning.md)<br />
 
 ### 1.2 Agent, Environment, and Reward
+✦ [Manual Grid World](Manual%20Grid%20World.py)<br />
+
 ### 1.3 State, Action, and Policy
 
 ---
